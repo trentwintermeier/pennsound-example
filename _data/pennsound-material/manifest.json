@@ -23,6 +23,16 @@
         "id": "https://trentwintermeier.github.io/pennsound-example/pennsound-material/canvas-1/canvas",
         "type": "Canvas",
         "duration": 90.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/pennsound-material-canvas-1-example-label.json",
+            "label": {
+              "none": ["Example label"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/pennsound-example/pennsound-material/canvas-1/paintings",
