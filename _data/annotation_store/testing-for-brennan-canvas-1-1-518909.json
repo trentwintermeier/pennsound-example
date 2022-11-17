@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-1-518909.json",
+  "type": "AnnotationPage",
+  "label": "1.518909",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-for-brennan-canvas-1-1-518909-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "1.518909",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Laughter",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/pennsound-example/testing-for-brennan/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.518909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-for-brennan-canvas-1-1-518909-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "1.518909",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Read a poem",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/pennsound-example/testing-for-brennan/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.518909"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-10-185625.json",
+  "type": "AnnotationPage",
+  "label": "10.185625",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-for-brennan-canvas-1-10-185625-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "10.185625",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "So",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "I feel like it just",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "uh kind of puts everything together",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/pennsound-example/testing-for-brennan/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10.185625"
+        }
+      }
+    }
+  ]
+}

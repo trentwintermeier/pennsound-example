@@ -23,6 +23,72 @@
         "id": "https://trentwintermeier.github.io/pennsound-example/testing-for-brennan/canvas-1/canvas",
         "type": "Canvas",
         "duration": 644.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-6-879764.json",
+            "label": {
+              "none": ["6.879764"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-2-948470.json",
+            "label": {
+              "none": ["2.948470"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-5-628898.json",
+            "label": {
+              "none": ["5.628898"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-1-518909.json",
+            "label": {
+              "none": ["1.518909"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-4-288684.json",
+            "label": {
+              "none": ["4.288684"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-10-185625.json",
+            "label": {
+              "none": ["10.185625"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-13-848876.json",
+            "label": {
+              "none": ["13.848876"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/pennsound-example/annotations/testing-for-brennan-canvas-1-16-171914.json",
+            "label": {
+              "none": ["16.171914"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/pennsound-example/testing-for-brennan/canvas-1/paintings",
